@@ -1,0 +1,5 @@
+flow-distribute2.7 (0.6.35) unstable; urgency=low
+
+  * distribute release for flow use at TGI
+
+ -- Mark Burnett <mburnett@genome.wustl.edu>  Mon, 25 Mar 2013 13:31:16 -0500
